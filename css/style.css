@@ -141,6 +141,11 @@ h6,
     align-items: center;
 }
 
+.nav-item .nav-link{
+    text-align: center;
+    align-items: center;
+}
+
 .sticky-top.navbar-dark .navbar-nav .nav-link {
     padding: 20px 0;
     color: var(--dark);
