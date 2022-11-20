@@ -136,6 +136,10 @@ h6,
     transition: .5s;
 }
 
+#navbarCollapse{
+    text-align: center;
+}
+
 .sticky-top.navbar-dark .navbar-nav .nav-link {
     padding: 20px 0;
     color: var(--dark);
