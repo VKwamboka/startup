@@ -138,6 +138,7 @@ h6,
 
 #navbarCollapse{
     text-align: center;
+    align-items: center;
 }
 
 .sticky-top.navbar-dark .navbar-nav .nav-link {
